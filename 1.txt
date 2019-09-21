@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 ne from master branc	first line from master
-new line added to test
+first line from dev to test
+>>>>>>> dev
