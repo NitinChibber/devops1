@@ -1,4 +1,3 @@
-###Another line added to test revert
 ####new line to check nitin
 name = "Nitin"
 print ("hello " + name)
