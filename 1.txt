@@ -1,1 +1,2 @@
 ne from master branc	first line from master
+new line added to test
