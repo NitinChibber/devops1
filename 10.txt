@@ -1,2 +1,4 @@
-First line of the file from master branch
+<<<<<<< HEAD
+First line of the file from m
+This is first line of code from DEV1 branch1
 second line added to master branch
